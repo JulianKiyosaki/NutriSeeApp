@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NutriSee</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_favorite_desc">Add to Favorites</string>
+    <string name="generic_error">Terjadi kesalahan. Silakan coba lagi nanti.</string>
+    <string name="app_logo">NutriSee</string>
+    <string name="app_tagline">Food Nutrition Detection Application</string>
+    <string name="jargon">Know What You Eat</string>
+    <string name="capture_image">Camera X</string>
+    capture_image
+
+</resources>
